@@ -58,6 +58,6 @@ public class javaassignment {
         }
 
         processes.sort(comparator);
-        processes.forEach(System.out::println);
+        processes.forEach(System.out::println);//abc
     }
 }
